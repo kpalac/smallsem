@@ -1,0 +1,83 @@
+Management is not thinking outside the box. | Getty Images          That’s poor ground to stand on when trying to revoke remote work.
+
+ Like pretty much every other company that could, HubSpot let its employees work from home when the pandemic hit. The difference was that, early on, the enterprise software company made a strong commitment to let workers continue working remotely if they wanted. And that’s what the majority of HubSpot workers did. Meanwhile, about a third are hybrid, and less than 10 percent are back to the office full time.
+
+ Now, HubSpot is trying to figure out the pros and cons of different working situations to make the most of each going forward. And, like many companies, it’s looking at a deceptively difficult metric to measure: productivity. 
+
+ In looking at things like sales reps reaching their quotas and developers cranking out code, HubSpot found that productivity didn’t seem to vary by employee location. The only real difference they saw was that at-home workers felt more connected to HubSpot’s mission and customers than in-office employees, a counterintuitive finding that likely speaks to how satisfied they felt about their work situation.
+
+ But a growing number of companies are still calling workers back to the office in the name of productivity. 
+
+ After promising that it would remain “fully flexible” last year, for example, the struggling ride-hailing company Lyft recently said it would start requiring employees to show up in person. The company’s new CEO reasoned that things move faster face to face. But it’s not clear if that strategy actually works. 
+
+ “Part of the reason you’re seeing so many people lobby for return to office is there’s this notion of, ‘That’s how I did it growing up,’” HubSpot chief people officer Katie Burke told Vox. “I certainly did that. I had a Palm Pilot growing up. I wore suits to work. I don’t think that everyone needs to do the things that I did in order to succeed in modern work.”
+
+ The emphasis on productivity can seem disingenuous, given that many companies raked in record profits as their workforces toiled in their living rooms. And even when companies try to measure productivity, they’re not necessarily measuring the right thing. In other words, your boss might be obsessed with productivity without really knowing what it means.
+
+ “I wore suits to work. I don’t think that everyone needs to do the things that I did in order to succeed in modern work.” Some 71 percent of business leaders say they’re under immense pressure to squeeze more productivity out of their workers, according to a new Slack survey of 18,000 knowledge workers, including managers. But most are measuring what workers put in, rather than what they put out. In turn, workers say they’re spending a third of their time “performing” work — that is, making an effort to look like they’re working rather than actually working. That includes focusing on supposed productivity signals, like speaking up in work threads regularly and responding to emails more quickly than necessary, even after hours.
+
+ Meanwhile, worker engagement, which is a measure of how well people understand their jobs and feel connected to them, has gone down since the early pandemic, according to a long-running Gallup study. And because worker engagement is highly correlated with productivity, that’s likely gone down, too. Workers are also reporting high rates of burnout, all of which is bad for productivity.
+
+ So not only does nobody know how to measure productivity, we’re also not even sure it’s the most important way to predict success. 
+
+ It’s been three years since the start of the pandemic, which wrought unparalleled destruction but also enabled a once-in-a-lifetime opportunity to make work better. For the tens of millions of people who were able to work remotely, the situation allowed them to skip long commutes and expensive lunches and get more time with their families and a work environment on their own terms. With these changes came conversations about work-life balance and job satisfaction that their bosses, desperate to hold on to talent amid the Great Resignation, seemed to genuinely consider. 
+
+ Companies stand to gain a lot from giving workers more flexibility, too. It can encourage a better, more creative, and more highly functioning workforce. Remote work, specifically, enables employers to hire from a broader candidate pool and one that might be more diverse than the location of the office, which contributes to better business outcomes. It also makes many employees happy, and happy workers are more productive. 
+
+ Now we stand at a crossroad for employees and employers. The pandemic is no longer considered a public health emergency. Economic uncertainty and a loosening hiring market have given management ammunition — if not good reason — to pull back on the kinds of flexibility they offered during the pandemic, including remote work.
+
+ But it doesn’t have to be that way. The chance to make work better both for employees and employers still stands. It starts with measuring the right thing. 
+
+ The problem with “productivity” What productivity means can vary by job, industry, and even person. Does it mean making more widgets or better widgets? And what makes a good widget? 
+
+ There are many parts of people’s jobs, especially knowledge workers’ jobs, that aren’t straightforward. Knowledge workers aren’t necessarily making widgets themselves. They might be coming up with new ways of selling those widgets, or improving those widgets, or writing about those widgets, or coaching others on how to spot new widgets. 
+
+ When researchers try to measure the relative productivity of remote work versus non-remote work, there are even more elements to consider. Those might include how often people are working from home, and whether there might be an extenuating circumstance, like different types of management styles or, say, a pandemic.
+
+ It’s particularly challenging to measure productivity among knowledge workers.
+
+ “The research on this really does seem to be a complete mess, not in the sense that it’s bad research but in the sense that you can find research that points at positive effects, be it productivity or happiness or job satisfaction, or you can find research finding the opposite,” said Christoph Riedl, an associate professor of information systems at Northeastern University’s business school.
+
+ The studies around remote work and productivity tend to look for more countable outcomes in jobs that are more straightforward, like the number of calls per hour in a call center. Even there, the data is mixed.
+
+ A widely cited pre-pandemic study by Stanford economics professor Nick Bloom and others found remote call center workers at a Chinese travel agency spent more time working and conducted more calls per minute than their in-office counterparts. These people also went into the office one day per week and received performance pay. A more recent study by Emma Harrington and Natalia Emanuel of call center workers at a Fortune 500 retailer found that those who worked from home answered 12 percent fewer calls than those who worked in an office. But their pay wasn’t tied to performance. 
+
+ In a different study, Harrington and others found that software engineers located in different buildings on the same campus before the pandemic wrote more computer programs than those who were sitting close to colleagues. However, the engineers who worked in different buildings commented less on others’ code. In other words, they were more productive but that potentially meant that less experienced coders got less mentorship and may end up being less productive in the future.
+
+ “It is relatively context-specific in the sense that it may really matter what the management practices of the firm are and what the incentive scheme is,” Harrington, who is an assistant professor of economics at the University of Iowa, told Vox.
+
+ One would think that a given company would have a better idea of its own productivity, but that isn’t necessarily the case. The Slack survey found that 60 percent of executives were tracking activity metrics — things like emails sent or hours worked — as the main way to measure productivity. The problem is that doing so incentivizes things like sending more emails or staying at your desk longer, not making better widgets.
+
+ “We see employers focus so much on measuring inputs instead of outputs,” Slack’s SVP of research and analytics, Christina Janzer, explained. Looking more at what employees achieve than how they’re achieving it, she added, requires a shift in mindset. 
+
+ “We have this opportunity to think so much more holistically about what really unlocks productivity,” she said. “I think there’s an opportunity for us to step back and rethink productivity because many people are focused on the wrong things.”
+
+ According to Slack, more than 80 percent of employees in the Slack survey said that feeling happy and engaged with their organization would improve their productivity. 
+
+ HubSpot is closer to the goal than most. When measuring the rate at which salespeople were meeting their quotas, the company found no difference between at-home and in-office employees. They also found that software engineers spent the same amount of time on revising code, regardless of location. Importantly, HubSpot’s leaders are also asking employees how they feel about working there, which helps them address issues as they arise. 
+
+ When HubSpot workers in the office complained about not seeing enough colleagues there to get that in-office experience, the company responded by reducing the office footprint so that those who did come in were physically closer. The company also designated a day each week — as well as a few marquee events each year — when there are more planned activities and in-person events to facilitate connection and in-person collaboration for those who want it. 
+
+ Importantly, the software company is doing so not to cajole people back into the office, but to try to make those who do find the office beneficial happier when they’re there.
+
+ What companies need is better management The current focus on productivity might say more about managers and the pressure they’re under from their bosses than it does about workers, Northeastern’s Riedl said.
+
+ “If you are the one who allows remote work, you need to justify why you’re doing that,” he said. “If everyone’s going to work from the office and you demand everyone works from the office, there’s just less justification needed.”
+
+ In other words, it’s easier to revert to the status quo.
+
+ But in doing so we’re missing chances to make remote work better for the majority of knowledge workers who currently work from home some (46 percent) or all (20 percent) of the time, according to the latest data from WFH Research. We are also ignoring other important aspects of work that actually make people happy and more productive. 
+
+ We know that employee engagement is down for all types of workers, but that it’s lowest for people who have to show up in person. Gallup estimated that low employee engagement cost the global economy $7.8 trillion in lost productivity last year.
+
+ For those who work in jobs where they could be remote but are being told to go to the office, their lack of autonomy is likely contributing to their lowered engagement, said Jim Harter, Gallup’s chief scientist of workplace management and well-being and a co-author of »Culture Shock«, a book coming out this month about the changing workplace. The decline in engagement among remote and hybrid workers has to do with unclear expectations. 
+
+ All those issues could be solved by better management, Harter said.
+
+ That includes assessing individuals on more than just how much email they’re sending, being clear about goals, and generally communicating openly and frequently with your employees.
+
+ “I think organizations could reach their highest levels of productivity ever if they have managers who are upskilled to have the right kinds of ongoing conversations with people so that they’re in touch with them on a regular basis,” Harter said.
+
+ That’s not easy. Figuring out how to make people feel connected remotely is hard; so is adapting new ways of onboarding or mentoring employees. Managing people working in multiple environments is obviously more of a challenge than just looking over their shoulders in the same office. But it’s not impossible, and solving these issues could make work — and productivity — better for employers and employees, regardless of where they work.
+
+ “When we had increases in remote work during the pandemic, there were a lot of people asking, ‘How do we know people are productive?’” Harter said. “And my question back was, ‘How did you know they were productive before the pandemic?’”

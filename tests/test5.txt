@@ -1,0 +1,21 @@
+Think about it, everything in the living world requires some kind of memory and information flow. The DNA in our cells is our blueprint. And to invent new things, such as rockets or medication, living beings also need information – knowledge of the laws of physics and chemistry.
+
+To explain life, we therefore need to understand how the complex objects life creates exist in time. With my collaborators, we have been doing just that in a newly proposed theory of physics called assembly theory.
+
+A key conjecture of assembly theory is that, as objects become more complex, the number of unique parts that make it up increases, and so does the need for local memory to store how to assemble the object from its unique parts. We quantify this in assembly theory as the shortest number of physical steps to build an object from its elementary building blocks, called the assembly index.
+
+Importantly, assembly theory treats this shortest path as an intrinsic property of the object, and indeed we have shown how assembly index can be measured for molecules using several different measuring techniques including mass spectrometry (an analytical method to measure the mass-to-charge ratio of molecules).
+
+With this approach, we have shown in the lab, with measurements on both biological and non-biological samples, how molecules with an assembly index above 15 steps are only found in living samples.
+
+This suggests that assembly theory is indeed capable of testing our hypothesis that life is the only physics that generates complex objects. And we can do so by identifying those objects that are so complex the only physical mechanism to form them is evolution.
+
+We are aiming to use our theory to estimate when the origin if life happens by measuring the point at which molecules in a chemical soup become so complex that they start using information to make copies of themselves – the threshold at which life arises from non-life. We may then apply the theory to experiments aiming to generate a new origin of life event in the lab.
+
+And when we know this, we can use the theory to look for life on worlds that are radically different to Earth, and may therefore look so alien that we wouldn’t recognise life there.
+
+If the theory holds, it will force a radical rethink on time in physics. According to our theory, assembly can be measured as an intrinsic property for molecules, which corresponds to their size in time – meaning time is a physical attribute.
+
+Ultimately, time is intrinsic to our experiences of the world, and it is necessary for evolution to happen. If we want physics to be capable of explaining life – and us - it may be that we need to treat time as a material property for the first time in physics.
+
+This is perhaps the most radical departure for physics of life from standard physics, but it may be the critical insight needed to explain what life is.
