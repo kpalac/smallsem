@@ -15,7 +15,7 @@ New languages can be added by modifying generator_en.py script and by training a
 
 You can learn new texts by using SmallSemTrainer class or command:
    
-    smallsem.py --lang=[SOME LANGUAGE SYMGOL] --learn-from-dir [DIRECTORY WITH PLAINTEXT]
+    smallsem.py --lang=[SOME LANGUAGE SYMBOL] --learn-from-dir [DIRECTORY WITH PLAINTEXT]
 
 Text provided should be in plaintext. The bigger the database the more accurate extraction is.
 Language data is stored in separate folder.
