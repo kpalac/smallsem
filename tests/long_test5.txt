@@ -1,0 +1,70 @@
+
+This abundant material could unlock cheaper batteries for EVs
+
+Casey Crownhart          
+
+
+Climate change
+
+
+Move over, lithium—there’s a new battery chemistry in town. Lithium is currently the ruler of the battery world, a key ingredient in the batteries that power phones, electric vehicles, and even store energy on the electrical grid. But as concerns about the battery supply chain swell, scientists are looking for ways to cut down on…
+
+
+
+Move over, lithium—there’s a new battery chemistry in town.
+
+    Lithium is currently the ruler of the battery world, a key ingredient in the batteries that power phones, electric vehicles, and even store energy on the electrical grid.
+
+    But as concerns about the battery supply chain swell, scientists are looking for ways to cut down on battery technology’s most expensive, least readily available ingredients. There are already options that reduce the need for some, like cobalt and nickel, but there’s been little recourse for those looking to dethrone lithium.
+
+    Over the past several months, though, battery companies and automakers in China have announced forays into a new kind of battery chemistry that replaces lithium with sodium. These new sodium-ion batteries could help push costs down for both stationary storage and electric vehicles, if the technology can meet the high expectations that companies are setting.
+
+    In March, JAC Motors, an automaker based in China, released photos of a chartreuse car that it said was the world’s first vehicle built with sodium-ion batteries. The compact vehicle was fitted with a 25-kilowatt-hour battery made by another Chinese company, HiNa Battery, and a press release claimed the car’s range was up to 250 kilometers (155 miles). In April, China’s largest EV battery maker, CATL, announced it had developed a sodium-ion battery that it planned to release in a vehicle made by automaker Chery. None of the four companies responded to a request for comment.
+
+    “They’re making these quite interesting announcements. There’s also a lot of details missing,” says Andy Leach, an energy storage analyst at BNEF. Neither CATL nor HiNa has released production timelines or detailed performance metrics for the batteries, or even revealed what specific types of sodium-ion batteries they’re planning to use. The mystery isn’t surprising for these large companies, Leach says: “They tend to keep their cards close to their chests.” But it does leave questions about just how ready sodium-ion batteries might be for real vehicles.
+
+    Sodium-based batteries are not new, but technical shortcomings have previously kept them from taking on lithium. Sodium-ion batteries traditionally wear out quickly, and they still have a lower energy density than lithium-ion, says Shirley Meng, a battery researcher at the University of Chicago and Argonne National Laboratory.
+
+      That means in order to store the same amount of energy, a sodium-based battery will need to be bigger and heavier than the equivalent lithium-based one. For EVs, that means a shorter range for a battery the same size.
+
+    A heavier, cheaper battery might be preferable in some circumstances, like for the smaller, lower-range EVs common in China. JAC’s announced range is comparable to that of the Wuling Hongguang Mini, one of China’s most popular EVs, whose long-range version can drive up to 280 km (175 miles) on a single charge.
+
+    A somewhat easier market for sodium-ion batteries might be stationary storage installations, like those used to provide backup power for a home or business or on the electrical grid. Some companies, like US-based Natron, are developing the chemistry specifically for stationary applications, where size and weight aren’t as critical as they are in a moving car.
+
+    Sodium-ion batteries have been in development for over half a century, and their performance has improved consistently, with especially steep gains over the past decade, Meng says. Battery researchers have worked out earlier issues with lifetime, partly by finding more compatible electrolytes (the liquid that helps ferry charge around in a battery) for the electrode materials used in sodium-ion cells. Researchers have also developed better electrode materials to boost the batteries’ energy density.
+
+    But the real reason for sodium-ion’s sudden surge in popularity is that lithium mines and processing facilities are straining to meet skyrocketing demand for EV batteries.
+
+    The world isn’t going to run out of any materials needed for EVs or renewable energy infrastructure anytime soon. Estimated reserves suggest that Earth’s crust has plenty of lithium for billions of EVs. But adding the infrastructure to pull lithium and other materials out of the ground and process it for use in batteries is proving to be a challenge. It can take the better part of a decade in most parts of the world to get a new mine built.
+
+      Demand for lithium has skyrocketed because of increased interest in electric vehicles, which made up about 13% of global vehicle sales in 2022. Higher demand has sent prices soaring: the price of lithium carbonate, a material used in batteries, roughly tripled between November 2021 and November 2022 before finally starting to come back down.
+
+    The volatility in lithium prices and the steadily increasing demand have opened the door for other chemistries, Meng says, adding: “I think sodium is considered a good alternative to relieve that pressure.” Unlike lithium, sodium can be produced from an abundant material: salt. Because the raw ingredients are cheap and widely available, there’s potential for sodium-ion batteries to be significantly less expensive than their lithium-ion counterparts if more companies start making more of them.
+
+    But if market conditions have opened the door for lithium alternatives, they could just as easily slam it shut. The fate of sodium-ion batteries will likely be “directly tied to the cost of lithium,” says Jay Whitacre, a battery researcher at Carnegie Mellon University and previous founder of a sodium-ion battery company called Aquion.
+
+    If sodium-ion batteries are breaking into the market because of cost and material availability, declining lithium prices could put them in a tough position. It’s hard enough to make new batteries and build them at large scale, Whitacre says. It’s even harder to chase a moving target of ever-improving lithium-ion batteries that are getting cheaper.
+
+    Sodium could end up in EV batteries in China as early as the end of this year, but the technology probably won’t overthrow lithium. Rather, the world of batteries will likely continue to branch out and diversify, with companies developing more battery options for different situations. There are “nooks and crannies” in the battery market, as Whitacre puts it, and soon, sodium-ion might finally find its place.
+
+
+
+Links:
+this-abundant-material-could-unlock-cheaper-batteries-for-evs
+
+
+
+-------------------------------------
+Word count: 1102
+Character count: 5505
+Sentence count: 46
+Capitalized word count: 105
+Common word count: 842
+Polysyllable count: 157
+Numeral count: 9
+
+Importance: 712.651
+Weight: 0.342
+Readability: 91.021
+
+                                                                                                                                                        

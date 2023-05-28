@@ -1,0 +1,25 @@
+There is a lot of discussion about the potentially positive or negative impact of generative AI on job roles and creativity. But the good news for software developers is that generative AI is assuming many mundane tasks and elevating their roles to business consulting and customer experience. 
+
+"IT professionals will adopt more strategic roles by leaning into tools that help augment their skills and automate work," says Chris Casey, director and general manager of worldwide industry technology partnerships for Amazon Web Services. We recently asked Casey to share his observations on what the job of the post-AI developer will look like. 
+
+Also: I used ChatGPT to write the same routine in these ten obscure programming languages
+
+With the rise of generative AI tools, there will be a need "for even more highly skilled IT professionals that take on strategic business roles," Casey predicts. AI will provide the ability "to quickly review and resolve coding errors from AI tools, understand new application review and compliance processes, and can interpret the massive amounts of data that these tools transfer back-and-forth to use to their organization's advantage."
+
+Generative AI "will enable IT professionals to bring creative solutions to market faster," says Casey. It is "reinventing the way that developers build applications and bring experiences to customers. Generative AI removes most of the manual writing of undifferentiated code, which saves time and increases productivity, so developers can focus on the creative aspects of coding and designing solutions."
+
+Also: Future ChatGPT versions could replace a majority of work people do today
+
+This is a "paradigm shift" in development work, Casey continues: "Rather than spending time writing straightforward and undifferentiated code, developers can focus on collaborating with product managers and engineers to design new user experiences. Product managers and engineers will likely benefit from training to build the skills required to efficiently and effectively prompt generative AI agents to produce desired outcomes, as well as fine-tune large-language model transformers and foundational models to meet specific use cases."  
+
+Generative AI also represents the next generation of low- and no-code environments as well, which means many AI-era developers will be based outside the IT realm, Casey says. Generative AI "enables developers to quickly get a concept into the hands of an early user base to show proof of value and drive a collaborative user-driven experience."
+
+Also: Generative AI can make some workers a lot more productive, according to this study
+
+By eliminating the need to write undifferentiated technical code, for example, "generic workflows, schemas, data, APIs, and identity access roles; generative AI allows the non-technical workforce the ability to build AI applications as well," he says. 
+
+There are also implications for delivering better user experiences. Generative AI is capable of producing code suggestions in real time to predict the next line of code, which "will also positively impact work for those such as UX and UX testing engineers who write code that prompts the generative AI agent to produce different versions of a UX in near real time," says Casey. "These engineers will be able to interpret and action feedback as it's received to continually enhance the customer experience."
+
+Also: How to use ChatGPT to write code
+
+Casey indicates that AWS seeks to "democratize" machine learning and make it widely accessible. "We've invested in cost-effective and scalable infrastructure, including services such as Amazon Sagemaker that reduce time to build, train, and deploy models," he says. A new product, Amazon Bedrock, makes foundation models accessible via APIs. 

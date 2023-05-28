@@ -3,9 +3,10 @@
 ABOUT
 
 
-SmallSem is a simple module and CLI application for extracting features/keywords from a text. Those keywords are supposed to be 
-characteristic of a document and used for findong similar documents etc. It was aimed to be simple, reasonably fast and accurate 
-enough to be usable in other projects.
+SmallSem is a simple module and CLI application for extracting features/keywords from and summarizing text. 
+
+The keywords are supposed to be characteristic of a document and used for findong similar documents etc. It was aimed to be simple, 
+reasonably fast and accurate enough to be usable in other projects.
 
 It makes use of Xapian database to index vocabulary from a language and then use frequencues to classify them as interesting. 
 Word pairs are also used if the cooccurr in a document.
@@ -24,6 +25,10 @@ Language data is stored in separate folder.
 You can extract keywords from a text file by command:
 
     smallsem.py --keywords [TEXT_FILE]
+
+You can summarize text using:
+
+    smallsem.py --level=[1..100] --summarize [TEXT_FILE]
 
 If vocabulary DB is not present for a language, simple dictionaries will be used.
 

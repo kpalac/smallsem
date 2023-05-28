@@ -1,0 +1,97 @@
+Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data. Originally developed at the U.S. National Center for Supercomputing Applications, it is supported by The HDF Group, a non-profit corporation whose mission is to ensure continued development of HDF5 technologies and the continued accessibility of data stored in HDF.
+
+In keeping with this goal, the HDF libraries and associated tools are available under a liberal, BSD-like license for general use. HDF is supported by many commercial and non-commercial software platforms and programming languages. The freely available HDF distribution consists of the library, command-line utilities, test suite source, Java interface, and the Java-based HDF Viewer (HDFView).[2]
+
+The current version, HDF5, differs significantly in design and API from the major legacy version HDF4.
+Early history
+
+The quest for a portable scientific data format, originally dubbed AEHOO (All Encompassing Hierarchical Object Oriented format) began in 1987 by the Graphics Foundations Task Force (GFTF) at the National Center for Supercomputing Applications (NCSA). NSF grants received in 1990 and 1992 were important to the project. Around this time NASA investigated 15 different file formats for use in the Earth Observing System (EOS) project. After a two-year review process, HDF was selected as the standard data and information system.[3]
+HDF4
+
+HDF4 is the older version of the format, although still actively supported by The HDF Group. It supports a proliferation of different data models, including multidimensional arrays, raster images, and tables. Each defines a specific aggregate data type and provides an API for reading, writing, and organizing the data and metadata. New data models can be added by the HDF developers or users.
+
+HDF is self-describing, allowing an application to interpret the structure and contents of a file with no outside information. One HDF file can hold a mix of related objects which can be accessed as a group or as individual objects. Users can create their own grouping structures called "vgroups."
+
+The HDF4 format has many limitations.[4][5] It lacks a clear object model, which makes continued support and improvement difficult. Supporting many different interface styles (images, tables, arrays) leads to a complex API. Support for metadata depends on which interface is in use; SD (Scientific Dataset) objects support arbitrary named attributes, while other types only support predefined metadata. Perhaps most importantly, the use of 32-bit signed integers for addressing limits HDF4 files to a maximum of 2 GB, which is unacceptable in many modern scientific applications.
+HDF5
+
+The HDF5 format is designed to address some of the limitations of the HDF4 library, and to address current and anticipated requirements of modern systems and applications. In 2002 it won an R&D 100 Award.[6]
+
+HDF5 simplifies the file structure to include only two major types of object:
+HDF Structure Example
+
+    Datasets, which are typed multidimensional arrays
+    Groups, which are container structures that can hold datasets and other groups
+
+This results in a truly hierarchical, filesystem-like data format.[clarification needed][citation needed] In fact, resources in an HDF5 file can be accessed using the POSIX-like syntax /path/to/resource. Metadata is stored in the form of user-defined, named attributes attached to groups and datasets. More complex storage APIs representing images and tables can then be built up using datasets, groups and attributes.
+
+In addition to these advances in the file format, HDF5 includes an improved type system, and dataspace objects which represent selections over dataset regions. The API is also object-oriented with respect to datasets, groups, attributes, types, dataspaces and property lists.
+
+The latest version of NetCDF, version 4, is based on HDF5.
+
+Because it uses B-trees to index table objects, HDF5 works well for time series data such as stock price series, network monitoring data, and 3D meteorological data. The bulk of the data goes into straightforward arrays (the table objects) that can be accessed much more quickly than the rows of an SQL database, but B-tree access is available for non-array data. The HDF5 data storage mechanism can be simpler and faster than an SQL star schema.[example needed]
+Feedback
+
+Criticism of HDF5 follows from its monolithic design and lengthy specification.
+
+    HDF5 does not enforce the use of UTF-8, so client applications may be expecting ASCII in most places.
+    Dataset data cannot be freed in a file without generating a file copy using an external tool (h5repack).[7]
+
+Interfaces
+Officially supported APIs
+
+    C
+    C++
+    CLI - .Net
+    Fortran, Fortran 90
+    HDF5 Lite (H5LT) – a light-weight interface for C
+    HDF5 Image (H5IM) – a C interface for images or rasters
+    HDF5 Table (H5TB) – a C interface for tables
+    HDF5 Packet Table (H5PT) – interfaces for C and C++ to handle "packet" data, accessed at high-speeds
+    HDF5 Dimension Scale (H5DS) – allows dimension scales to be added to HDF5
+    Java
+
+Third-party bindings
+
+    CGNS uses HDF5 as main storage
+    Common Lisp library hdf5-cffi
+    D offers bindings to the C API, with a high-level h5py style D wrapper under development
+    Dymola introduced support for HDF5 export using an implementation called SDF (Scientific Data Format) with release Dymola 2016 FD01
+    Erlang, Elixir, and LFE may use the bindings for BEAM languages
+    GNU Data Language
+    Go - gonum's hdf5 package.
+    HDFql enables users to manage HDF5 files through a high-level language (similar to SQL) in C, C++, Java, Python, C#, Fortran and R.
+    Huygens Software uses HDF5 as primary storage format since version 3.5
+    IDL
+    IGOR Pro offers full support of HDF5 files.
+    JHDF5,[8] an alternative Java binding that takes a different approach from the official HDF5 Java binding which some users find simpler
+    jHDF A pure Java implementation providing read-only access to HDF5 files
+    JSON through hdf5-json.
+    Julia provides HDF5 support through the HDF5 package.
+    LabVIEW can gain HDF support through third-party libraries, such as h5labview and lvhdf5.
+    Lua through the lua-hdf5 library.
+    MATLAB, Scilab or Octave – use HDF5 as primary storage format in recent releases
+    Mathematica[9] offers immediate analysis of HDF and HDF5 data
+    Perl[10]
+    Python supports HDF5 via h5py (both high- and low-level access to HDF5 abstractions) and via PyTables (a high-level interface with advanced indexing and database-like query capabilities). HDF4 is available via Python-HDF4 and/or PyHDF for both Python 2 and Python 3. The popular data manipulation package pandas can import from and export to HDF5 via PyTables.
+    R offers support in the rhdf5 and hdf5r packages.
+    Rust can gain HDF support through third-party libraries like hdf5.
+
+Tools
+
+    Apache Spark HDF5 Connector HDF5 Connector for Apache Spark
+    Apache Drill HDF5 Plugin HDF5 Plugin for Apache Drill enables SQL Queries over HDF5 Files.
+    HDF Product Designer Interoperable HDF5 data product creation GUI tool
+    HDF Explorer A data visualization program that reads the HDF, HDF5 and netCDF data file formats
+    HDFView A browser and editor for HDF files
+    ViTables A browser and editor for HDF5 and PyTables files written in Python
+    Panoply A netCDF, HDF and GRIB Data Viewer
+
+See also
+
+    Common Data Format (CDF)
+    FITS, a data format used in astronomy
+    GRIB (GRIdded Binary), a data format used in meteorology
+    HDF Explorer
+    NetCDF, The Netcdf Java library reads HDF5, HDF4, HDF-EOS and other formats using pure Java
+    Protocol Buffers - Google's data interchange format
