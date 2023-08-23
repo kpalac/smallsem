@@ -11,6 +11,8 @@ reasonably fast and accurate enough to be usable in other projects.
 It makes use of Xapian database to index vocabulary from a language and then use frequencues to classify them as interesting. 
 Word pairs are also used if the cooccurr in a document.
 
+Language models' xapian indexes must be unzipped to the same folder to be functional (archives named **_index.zip).
+
 New languages can be added by modifying generator_en.py script and by training a new Xapian DB on a corpus from a gicen language.
 
 
